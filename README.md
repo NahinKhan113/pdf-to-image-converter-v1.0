@@ -1,4 +1,6 @@
 # pdf-to-image-converter-v1.0
+# pdf-to-image-converter-v2.0 is available now. click this link below to use that
+<h1><a href="https://github.com/NahinKhan113/pdf-to-image-converter-v2.0.git">Click Here</a></h1>
 It is a pdf to image convertor. Fully free to use. Please read the instructions first.<br>
 Before running this program install pdf2image by running this code in your command prompt:
 <code>pip install pdf2image</code><br>
